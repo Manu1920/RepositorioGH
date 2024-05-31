@@ -1,0 +1,6 @@
+Listado de algunos comandos para generar un repositorio local
+
+git init - inicializa el repositorio
+git status - enlista estado de los cambios pendientes en el repositorio
+git add xxxxxx.txt-->(nombre del archivo) - guarda cambios realizados en el archivo declarado
+git commit -m "nombre o referencia de la actualización por guardar"
